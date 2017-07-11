@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavisca.Training2017.Basics.Stack.ConsoleApp", "Tavisca.Training2017.Basics.Stack.ConsoleApp\Tavisca.Training2017.Basics.Stack.ConsoleApp.csproj", "{D63A88D1-36E4-4FFA-A51B-3F6C40D5677E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavisca.Training2017.Basics.StackImplementation", "Tavisca.Training2017.Basics.StackImplementation\Tavisca.Training2017.Basics.StackImplementation.csproj", "{ABF862A3-30E8-4137-B044-A0DD07B166E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D63A88D1-36E4-4FFA-A51B-3F6C40D5677E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D63A88D1-36E4-4FFA-A51B-3F6C40D5677E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D63A88D1-36E4-4FFA-A51B-3F6C40D5677E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D63A88D1-36E4-4FFA-A51B-3F6C40D5677E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF862A3-30E8-4137-B044-A0DD07B166E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF862A3-30E8-4137-B044-A0DD07B166E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF862A3-30E8-4137-B044-A0DD07B166E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF862A3-30E8-4137-B044-A0DD07B166E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
