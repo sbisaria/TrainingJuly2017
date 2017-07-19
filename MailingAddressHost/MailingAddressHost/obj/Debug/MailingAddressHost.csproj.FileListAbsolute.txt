@@ -1,0 +1,6 @@
+D:\workspace\CodeJams\CodeKata\MailingAddressHost\MailingAddressHost\bin\Debug\MailingAddressHost.exe.config
+D:\workspace\CodeJams\CodeKata\MailingAddressHost\MailingAddressHost\bin\Debug\MailingAddressHost.exe
+D:\workspace\CodeJams\CodeKata\MailingAddressHost\MailingAddressHost\bin\Debug\MailingAddressHost.pdb
+D:\workspace\CodeJams\CodeKata\MailingAddressHost\MailingAddressHost\obj\Debug\MailingAddressHost.csprojResolveAssemblyReference.cache
+D:\workspace\CodeJams\CodeKata\MailingAddressHost\MailingAddressHost\obj\Debug\MailingAddressHost.exe
+D:\workspace\CodeJams\CodeKata\MailingAddressHost\MailingAddressHost\obj\Debug\MailingAddressHost.pdb
