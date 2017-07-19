@@ -1,0 +1,6 @@
+D:\workspace\Problems\MailingAddress\MailingAddress\bin\Debug\MailingAddress.exe.config
+D:\workspace\Problems\MailingAddress\MailingAddress\bin\Debug\MailingAddress.exe
+D:\workspace\Problems\MailingAddress\MailingAddress\bin\Debug\MailingAddress.pdb
+D:\workspace\Problems\MailingAddress\MailingAddress\obj\Debug\MailingAddress.csprojResolveAssemblyReference.cache
+D:\workspace\Problems\MailingAddress\MailingAddress\obj\Debug\MailingAddress.exe
+D:\workspace\Problems\MailingAddress\MailingAddress\obj\Debug\MailingAddress.pdb
